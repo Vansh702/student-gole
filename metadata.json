@@ -1,0 +1,5 @@
+{
+  "name": "GoalKeeper",
+  "description": "A student goal achievement system tracking daily tasks, offering AI-driven feedback, credits, and history tracking.",
+  "requestFramePermissions": []
+}
